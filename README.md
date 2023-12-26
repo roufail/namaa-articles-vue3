@@ -1,5 +1,3 @@
--- vue3 
-
-npm install
-
-yarn vite
+-- vue3 <br />
+-- npm install <br />
+-- yarn vite <br />
